@@ -1,0 +1,181 @@
+a {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    line-height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+img{
+    width: 25%;
+    margin: 10px;
+    position: relative;
+    border-style: outset;
+    border-color: grey;
+}
+
+p{
+    text-indent: 15px;
+    text-align: justify;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 540;
+}
+
+h2{
+    text-align: left;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.adm {
+    background-color: rgba(8, 199, 199, 0.621);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.adm2{
+    background-color: rgba(11, 195, 195, 0.642);
+
+}
+
+.index {
+    background-color: rgba(199, 0, 0, 0.373);
+    border-style: outset;
+    border-color: red;
+    border-radius: 20%;
+}
+
+.index2{
+    background-color: rgba(199, 0, 0, 0.373);
+    border-style: outset;
+    border-color: red;
+    border-radius: 0%;
+}
+
+.ads{
+    background-color: rgba(6, 129, 6, 0.777);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+.ads2{
+    background-color: rgba(6, 129, 6, 0.777);
+}
+
+.bd{
+    background-color: rgb(157, 157, 17);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.bd2{
+    background-color: rgb(157, 157, 17);
+}
+
+.engcomp{
+    background-color: rgb(181, 122, 12);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.engcomp2{
+    background-color: rgb(181, 122, 12);
+}
+
+.engprod{
+    background-color: rgb(0, 0, 102);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.engprod2{
+    background-color: rgb(0, 0, 102);
+}
+
+.engmec{
+    background-color: rgba(82, 2, 156, 0.647);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.engmec2{
+    background-color: rgba(82, 2, 156, 0.647);
+}
+
+.gestec{
+    background-color: rgb(186, 186, 153);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.gestec2{
+    background-color: rgb(193, 193, 163);
+    
+}
+
+.jogosd{
+    background-color: rgb(93, 211, 171);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.jogosd2{
+    background-color: rgb(93, 211, 171);
+}
+
+.rodape{
+    background-color: rgb(188, 188, 188);
+    width: 80%;
+    height: 100px;
+    clear: both;
+    border-style: outset;
+    border-color: grey;
+    border-radius: 0%;
+}
+
+.sistinf{
+    background-color: rgb(188, 115, 127);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.sistinf2{
+    background-color: rgb(188, 115, 127);
+}
+
+.sistnet{
+    background-color: rgb(99, 0, 99);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.sistnet2{
+    background-color: rgb(99, 0, 99);
+}
+
+.redecomp{
+    background-color: rgb(0, 94, 94);
+    border-style: outset;
+    border-color: grey;
+    border-radius: 45%;
+}
+
+.redecomp2{
+    background-color: rgb(0, 94, 94);
+}
